@@ -27,11 +27,11 @@ Clone CarRecon in to the directory "notebooks". Everything should work as intend
 ### User Guide:
 Install the project as mentioned above.
 located the CarRecon module 
-Use the predict function on a jpg image, witch will return a string of what the guessed car was. Use this return value on the function find_car, witch will then scrape https://www.bilbasen.dk/, for any cars similar to the one guessed. find_car wil return a pandas dataframe with price, year and mileage. This dataframe can then be used on the statistic_data function, which will return a plot of the price and mileage median per production year
+Use the predict function on a jpg image, which will return a string of what the guessed car was. Use this return value on the function find_car, which will then scrape https://www.bilbasen.dk/, for any cars similar to the one guessed. find_car wil return a pandas dataframe with price, year and mileage. This dataframe can then be used on the statistic_data function, which will return a plot of the price and mileage median per production year
 
 
 ### Status:
-At this stage, the module is able to predict 2 cars, Audi R8 and Fiat 500, with an accuracy of 75%. Further more, the module prints only: the price, production year, and mileage. This model, will not scrape all cars from https://www.bilbasen.dk/, since they use different names for their div tags, depending on witch page you are on.
+At this stage, the module is able to predict 2 cars, Audi R8 and Fiat 500, with an accuracy of 75%. Further more, the module prints only: the price, production year, and mileage. This model, will not scrape all cars from https://www.bilbasen.dk/, since they use different names for their div tags, depending on which page you are on.
 
 ### list of challenges:
 One of the main challenges we had with this project, was to get the best accuracy we could get, with the knowledge and processing power we had available, out of the CNN. The model has a lot of space for improvement, but for a proof of concept, we found that this model was more then okay for the task.
