@@ -2,7 +2,7 @@
 # CarRecon
 #### Semester 4 Eksamens Projekt CPH Business Lyngby 2021
 #### By Nicolas (cph-na157), Andreas (cph-aa344), Christoffer (cph-cf161) and Benjamin (cph-bc105)
-This is a proof of concept. With this module, you are able to take a jpg file of a car, the module will then guess witch car, is in the picture, and find similar cars on the website https://www.bilbasen.dk/. The module will return a printed list of cars, that has been scraped from the website, with some data of the price, year of production and mileage. on top of that, it will return a plot, that shows the median price and mileage per production year.
+This is a proof of concept. With this module, you are able to take a jpg file of a car, the module will then guess which car, is in the picture, and find similar cars on the website https://www.bilbasen.dk/. The module will return a printed list of cars, that has been scraped from the website, with some data of the price, year of production and mileage. on top of that, it will return a plot, that shows the median price and mileage per production year.
 
 ### Technologies:
 	 - Keras
