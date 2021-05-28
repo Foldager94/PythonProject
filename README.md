@@ -21,7 +21,7 @@ This is a proof of concept. With this module, you are able to take a jpg file of
 ### How to install:
 This project was created within the python environment that the teacher gave out the first week of this semester:
 https://github.com/Hartmannsolution/docker_notebooks/
-Install docker engien and use "docker-compose up --build"  in the root of the project above after you have cloned it.
+Install docker engine and use "docker-compose up --build"  in the root of the project above after you have cloned it.
 Clone CarRecon in to the directory "notebooks". Everything should work as intended, since the dockerfile, from docker_notebooks, will handle the installation of the above mentioned technologies.
 
 ### User Guide:
