@@ -34,8 +34,8 @@ Use the predict function on a jpg image, which will return a string of what the 
 At this stage, the module is able to predict 2 cars, Audi R8 and Fiat 500, with an accuracy of 75%. Further more, the module prints only: the price, production year, and mileage. This model, will not scrape all cars from https://www.bilbasen.dk/, since they use different names for their div tags, depending on which page you are on.
 
 ### list of challenges:
-One of the main challenges we had with this project, was to get the best accuracy we could get, with the knowledge and processing power we had available, out of the CNN. The model has a lot of space for improvement, but for a proof of concept, we found that this model was more then okay for the task.
-An other big challenge we had with the project, was the scrapping part. We had to come up with a little "workaround", do to buttons being behind div- or p tags
+One of the main challenges we had with this project, was to get the best accuracy we could get, with the knowledge and processing power we had available, out of the CNN. The model has a lot of space for improvement, but for a proof of concept, we found that this model was more than okay for the task.
+Another big challenge with the project was the scrapping part. The group had to come up with a little "workaround" due to buttons being behind <div> or <p> tags.
 
 
 
