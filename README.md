@@ -1,7 +1,7 @@
 
 # CarRecon
 #### Semester 4 Eksamens Projekt CPH Business Lyngby 2021
-#### By Nicolas (cph-na157), Andreas (cph-aa344), Christoffer (cph-cf161) and Benjamin(cph-bc105)
+#### By Nicolas (cph-na157), Andreas (cph-aa344), Christoffer (cph-cf161) and Benjamin (cph-bc105)
 This is a proof of concept. With this module, you are able to take a picture of a car, witch must be a jpg for the time being. The module will then guess witch car, is in the picture, and find similar cars on the website https://www.bilbasen.dk/. The module will return a list of cars that has been scraped from the website. The module will, at this state, show the price, year and km driven, as prints.
 
 ### Technologies:
