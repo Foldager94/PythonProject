@@ -35,7 +35,7 @@ At this stage, the module is able to predict 2 cars, Audi R8 and Fiat 500, with 
 
 ### list of challenges:
 One of the main challenges we had with this project, was to get the best accuracy we could get, with the knowledge and processing power we had available, out of the CNN. The model has a lot of space for improvement, but for a proof of concept, we found that this model was more than okay for the task.
-Another big challenge with the project was the scrapping part. The group had to come up with a little "workaround" due to buttons being behind <div> or <p> tags.
+Another big challenge with the project was the scrapping part. The group had to come up with a little "workaround" due to buttons being behind \<div\> or \<p\> tags.
 
 
 
